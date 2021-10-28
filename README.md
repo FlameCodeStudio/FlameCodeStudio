@@ -4,10 +4,6 @@
 - 💸 Zamówienia możesz dokonać na naszym [Serwerze Discord](https://discord.gg/sctSRanFzw)
 ## 👤 Nasi Developerzy:
  * Mamutek - Kontakt - `Mamutek#9774`
- * ItsKwel0 - 
 
-
-<!---
-FlameCodeStudio/FlameCodeStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ * ItsKwel
+    - **Kontakt** - `ItsKwel0_#2809` 
